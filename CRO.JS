@@ -31,7 +31,7 @@ function stop() {
     clearInterval(interval);
     seg = 0
     min = 0
-    document.getElementById("watch").innerText = "00:00:00"
+    document.getElementById("cont").innerText = "00:00:00"
 
 }
 
